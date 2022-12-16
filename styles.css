@@ -123,6 +123,7 @@ p {
 
 @media (min-width: 1024px) {
     main {
+        max-width: 800px;
         flex-direction: row;
         margin: auto;
         border-radius: 20px;
